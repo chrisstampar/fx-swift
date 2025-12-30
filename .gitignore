@@ -1,0 +1,38 @@
+# Xcode
+*.xcodeproj
+*.xcworkspace
+.DS_Store
+build/
+DerivedData/
+
+# Swift Package Manager
+.build/
+.swiftpm/
+*.swiftpm
+
+# Testing
+.swiftpm/xcode/package.xcworkspace/contents.xcworkspacedata
+
+# macOS
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Temporary files
+*.tmp
+*.bak
+
+# Misc/internal documentation files
+PRE_PUBLISH_CHECKLIST.md
+PUBLISH_READINESS.md
+GITHUB_PUSH_GUIDE.md
+GITHUB_DESCRIPTION.txt
+features.md
+CACHING_LAYER_DESIGN.md
+WEB3_LIBRARY_NOTES.md
+TESTING.md
+
