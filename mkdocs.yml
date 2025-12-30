@@ -1,0 +1,53 @@
+site_name: f(x) Protocol Swift SDK Documentation
+site_description: Complete documentation for the f(x) Protocol Swift SDK
+site_author: Christopher Stampar
+
+repo_name: chrisstampar/fx-swift
+repo_url: https://github.com/chrisstampar/fx-swift
+edit_uri: edit/main/
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: blue
+      accent: blue
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+    - search.suggest
+    - search.highlight
+
+nav:
+  - Home: README.md
+  - Quick Start: README.md#quick-start
+  - Complete Documentation: DOCUMENTATION.md
+  - API Reference: DOCUMENTATION.md#api-reference
+  - Privacy Policy: PRIVACY.md
+  - Testing Guide: TEST_COMMANDS.md
+  - Changelog: CHANGELOG.md
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - toc:
+      permalink: true
+  - pymdownx.tabbed:
+      alternate_style: true
+  - admonition
+  - pymdownx.details
+
