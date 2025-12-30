@@ -1648,7 +1648,6 @@ See [TEST_COMMANDS.md](./TEST_COMMANDS.md) for detailed testing information.
 - **README.md** - Quick start guide
 - **PRIVACY.md** - Privacy policy
 - **TEST_COMMANDS.md** - Testing guide
-- **SWIFT_IOS_PLAN.md** - Implementation plan
 - **API Documentation** - https://fx-api-production.up.railway.app/docs
 
 ---

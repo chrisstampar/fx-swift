@@ -241,5 +241,4 @@ swift test
 ## 🔗 Related Documentation
 
 - [README.md](./README.md) - SDK documentation
-- [SWIFT_IOS_PLAN.md](../SWIFT_IOS_PLAN.md) - Implementation plan
 
