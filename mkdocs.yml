@@ -6,6 +6,9 @@ repo_name: chrisstampar/fx-swift
 repo_url: https://github.com/chrisstampar/fx-swift
 edit_uri: edit/main/
 
+# Use root directory as docs directory
+docs_dir: "."
+
 theme:
   name: material
   palette:
