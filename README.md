@@ -312,9 +312,7 @@ MIT
 - **📚 Complete Documentation**: [DOCUMENTATION.md](./DOCUMENTATION.md) - Exhaustive API reference, examples, and guides
 - **🔒 Privacy Policy**: [PRIVACY.md](./PRIVACY.md) - Privacy and data collection information
 - **🧪 Test Commands**: [TEST_COMMANDS.md](./TEST_COMMANDS.md) - Testing guide and commands
-- **📋 Implementation Plan**: [SWIFT_IOS_PLAN.md](../SWIFT_IOS_PLAN.md) - Development plan and status
 - **📝 Changelog**: [CHANGELOG.md](./CHANGELOG.md) - Version history and changes
-- **✅ Publish Readiness**: [PUBLISH_READINESS.md](./PUBLISH_READINESS.md) - Pre-publish checklist and status
 - **🌐 API Documentation**: [https://fx-api-production.up.railway.app/docs](https://fx-api-production.up.railway.app/docs)
 - **💚 API Health**: [https://fx-api-production.up.railway.app/v1/health](https://fx-api-production.up.railway.app/v1/health)
 
